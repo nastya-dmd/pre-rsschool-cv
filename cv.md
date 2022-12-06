@@ -50,3 +50,33 @@ function mixArray(inputArray) {
 
 ```
 *****
+## Work Experience
+>2014-2017 MedSerwisTrans, Customer Service Specialist 
+
+>2017-2021 MedSerwisTrans, Controller of Measuring Devices
+
+*****
+## Education & Courses
+>2022, Sep 04  RS School, JS / Front-end. Stage 0
+
+>2009-2014 International Sakharov Environmental University, ecologist-expert
+
+>2013 BELHARD Education Center "Software Testing"
+
+>2013 EPAM Systems "Software Testing Introduction"
+
+*****
+## Projects
+>[Travel (HTML, CSS, JS)](https://rolling-scopes-school.github.io/nastya-dmd-JSFEPRESCHOOL2022Q2/travel/)
+
+>[Momentum (HTML, CSS, JS)](https://rolling-scopes-school.github.io/nastya-dmd-JSFEPRESCHOOL2022Q2/momentum/)
+
+>[Eldritch Horror Codejam (HTML, CSS, JS)](https://nastya-dmd-codejam-eldritch.netlify.app/)
+
+*****
+## Languages
+>Russian (native)
+
+>English (pre-intermediate)
+
+>Polish (pre-intermediate)
