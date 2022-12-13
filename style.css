@@ -192,3 +192,33 @@ h2 {
     width: 100%;
     height: 100%;
 }
+
+.right-container {
+    display: flex;
+}
+
+.dots-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.dots-row {
+    width: 200px;
+    margin-bottom: 23px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dots {
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgba(175, 147, 105, 0.459);
+    border-radius: 50%;
+}
+
+.dots.active {
+    background-color: rgba(175, 147, 105, 0.26);
+}
+
