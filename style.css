@@ -269,3 +269,25 @@ h2 {
     border-radius: 10% /50%;
 }
 
+footer {
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+    background-color: rgba(175, 147, 105, 0.26);
+}
+
+footer img {
+    height: 30px;
+}
+
+.github a {
+    display: flex;
+    text-decoration: none;
+    gap: 10px;
+    align-items: center;
+}
+
+.github a:hover {
+    color: #414141;
+    background-color: revert;
+}
