@@ -124,6 +124,30 @@
                 </div>
             </div>
         </section>
+        <section class="row">
+            <div class="left" id="code">
+                <div class="border">
+                    <h2>Code example</h2>
+                </div>
+            </div>
+            <div class="right">
+                <pre class="code"><code>
+function mixArray(inputArray) {
+const result = [...inputArray];
+
+for (let i = 0; i &lt; result.length; i++) {
+    const randomIndex = getRandomNum(result.length) - 1;
+    const currentEl = result[i];
+    const randomEl = result[randomIndex];
+    result[i] = randomEl;
+    result[randomIndex] = currentEl;
+}
+
+return result;
+}
+                 </code></pre>
+            </div>
+        </section>
     </main>
 </body>
 </html>

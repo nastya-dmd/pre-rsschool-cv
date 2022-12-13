@@ -222,3 +222,15 @@ h2 {
     background-color: rgba(175, 147, 105, 0.26);
 }
 
+.code {
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: rgb(226, 216, 210);
+    border-radius: 10%;
+    opacity: 90%;
+    border-radius: 3px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
